@@ -45,12 +45,12 @@ streamlit run app.py
 ### 3.For Data-Based Diagnosis:
 * Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
-## Get Results:
+### Get Results:
 
-### The system will provide:
-* Disease Predictions based on AI model analysis.
-* Highlighted affected regions in the uploaded medical scans.
-* Suggestions for further medical consultation.
+* The system will provide:
+** Disease Predictions based on AI model analysis.
+** Highlighted affected regions in the uploaded medical scans.
+** Suggestions for further medical consultation.
 
 ## Technology Used
 
@@ -63,9 +63,6 @@ streamlit run app.py
 ## Contact
 
 For questions or feedback, feel free to reach out via:
-
-Email:sahastraboreddy@gmail.com
-
-GitHub:https://github.com/BoreddySahastraReddy
-
+* Email:sahastraboreddy@gmail.com
+* GitHub:https://github.com/BoreddySahastraReddy
 This project marks a step toward smarter and more accessible healthcare diagnostics.
