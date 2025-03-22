@@ -47,16 +47,23 @@ How It Works
 Get Results:
 
 The system will provide:
+
 •	Disease Predictions based on AI model analysis.
+
 •	 Highlighted affected regions in the uploaded medical scans.
+
 •	 Suggestions for further medical consultation.
 
 Technology Used
 
 •	Python: Core programming language for backend logic.
+
 •	Deep Learning (CNNs & LSTMs): AI models for medical image and text-based diagnosis.
+
 •	OpenCV & TensorFlow: Image processing and model deployment.
+
 •	Streamlit: Interactive web interface for seamless user interaction.
+
 •	Pandas & NumPy: Data handling and analysis for patient records.
 
 Contact
