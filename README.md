@@ -8,12 +8,12 @@ The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant des
 
 ## Key Features
 
--.	Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
--.	Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
--.	Real-Time Analysis: Provides quick and accurate diagnostic results based on patient data.
--.  Visual Interpretation: Highlights affected areas in medical scans for better understanding.
--.	User-Friendly Web Interface: Easy-to-use interface for uploading medical reports and viewing analysis results.
--.	Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
+•	Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
+•	Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
+•	Real-Time Analysis: Provides quick and accurate diagnostic results based on patient data.
+•	Visual Interpretation: Highlights affected areas in medical scans for better understanding.
+•	User-Friendly Web Interface: Easy-to-use interface for uploading medical reports and viewing analysis results.
+•	Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
 
 
 ## Installation Guide
@@ -37,23 +37,20 @@ streamlit run app.py
 ## How It Works
 
 ### 1.Select Input:
--. Choose between Upload Medical Image or Enter Patient Data in the application interface.
+•	Choose between Upload Medical Image or Enter Patient Data in the application interface.
 
 ### 2.For Image-Based Diagnosis:
--. Click on Upload Medical Image and select an X-ray, MRI, or CT scan for analysis.
+•	Click on Upload Medical Image and select an X-ray, MRI, or CT scan for analysis.
 
 ### 3.For Data-Based Diagnosis:
--. Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
+•	Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
 ## Get Results:
 
 ### The system will provide:
-
--. Disease Predictions based on AI model analysis.
-
--. Highlighted affected regions in the uploaded medical scans.
-
--. Suggestions for further medical consultation.
+•	Disease Predictions based on AI model analysis.
+•	Highlighted affected regions in the uploaded medical scans.
+•	Suggestions for further medical consultation.
 
 ## Technology Used
 
