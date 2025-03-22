@@ -17,36 +17,36 @@ The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant des
 
 ## Installation Guide
 
-1. Clone the Repository
+### **_1. Clone the Repository
 Use the following commands to clone the repository and navigate to the project directory:
-
-# git clone https://github.com/<your-username>/AI_Medical_Diagnosis-AICTE_Internship.git  
-# cd AI_Medical_Diagnosis-AICTE_Internship  
- 
-2. Install Dependencies
+```
+git clone https://github.com/<your-username>/AI_Medical_Diagnosis-AICTE_Internship.git  
+cd AI_Medical_Diagnosis-AICTE_Internship  
+```
+### **_2. Install Dependencies
 Ensure you have Python installed (version 3.8+ recommended). Then, install the required libraries:
-
-# pip install -r requirements.txt  
-
-3. Run the Application
+```
+pip install -r requirements.txt  
+```
+### **_3. Run the Application
 Launch the web application using the following command:
-
-# streamlit run app.py
-
+```
+streamlit run app.py
+```
 ## How It Works
 
-1.Select Input:
+### 1.Select Input:
 •	Choose between Upload Medical Image or Enter Patient Data in the application interface.
 
-2.For Image-Based Diagnosis:
+### 2.For Image-Based Diagnosis:
 •	Click on Upload Medical Image and select an X-ray, MRI, or CT scan for analysis.
 
-3.For Data-Based Diagnosis:
+### 3.For Data-Based Diagnosis:
 •	Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
 ## Get Results:
 
-The system will provide:
+### The system will provide:
 
 •	Disease Predictions based on AI model analysis.
 
