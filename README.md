@@ -20,18 +20,18 @@ The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant des
 1. Clone the Repository
 Use the following commands to clone the repository and navigate to the project directory:
 
-git clone https://github.com/<your-username>/AI_Medical_Diagnosis-AICTE_Internship.git  
-cd AI_Medical_Diagnosis-AICTE_Internship  
+# git clone https://github.com/<your-username>/AI_Medical_Diagnosis-AICTE_Internship.git  
+# cd AI_Medical_Diagnosis-AICTE_Internship  
  
 2. Install Dependencies
 Ensure you have Python installed (version 3.8+ recommended). Then, install the required libraries:
 
-pip install -r requirements.txt  
+# pip install -r requirements.txt  
 
 3. Run the Application
 Launch the web application using the following command:
 
-streamlit run app.py
+# streamlit run app.py
 
 ## How It Works
 
