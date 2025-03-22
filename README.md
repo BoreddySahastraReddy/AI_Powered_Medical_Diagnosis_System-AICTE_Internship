@@ -1,12 +1,12 @@
-AI-Powered Medical Diagnosis System
+# AI-Powered Medical Diagnosis System
 
 A project developed as part of the AICTE Internship-A Smart Solution for Early Disease Detection
 
-Project Overview
+## Project Overview
 
 The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant designed to help in the early detection and prediction of diseases. Using machine learning and medical image analysis, the system evaluates patient data to assist in identifying potential health conditions. This project serves as the foundation for a more advanced AI-based diagnostic tool, with plans to integrate additional features and enhance accuracy.
 
-Key Features
+## Key Features
 
 •	Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
 •	Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
@@ -15,7 +15,7 @@ Key Features
 •	User-Friendly Web Interface: Easy-to-use interface for uploading medical reports and viewing analysis results.
 •	Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
 
-Installation Guide
+## Installation Guide
 
 1. Clone the Repository
 Use the following commands to clone the repository and navigate to the project directory:
@@ -33,7 +33,7 @@ Launch the web application using the following command:
 
 streamlit run app.py
 
-How It Works
+## How It Works
 
 1.Select Input:
 •	Choose between Upload Medical Image or Enter Patient Data in the application interface.
@@ -44,7 +44,7 @@ How It Works
 3.For Data-Based Diagnosis:
 •	Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
-Get Results:
+## Get Results:
 
 The system will provide:
 
@@ -54,7 +54,7 @@ The system will provide:
 
 •	 Suggestions for further medical consultation.
 
-Technology Used
+## Technology Used
 
 •	Python: Core programming language for backend logic.
 
@@ -66,7 +66,7 @@ Technology Used
 
 •	Pandas & NumPy: Data handling and analysis for patient records.
 
-Contact
+## Contact
 
 For questions or feedback, feel free to reach out via:
 
