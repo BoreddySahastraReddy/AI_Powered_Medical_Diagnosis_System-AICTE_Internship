@@ -46,11 +46,10 @@ streamlit run app.py
 * Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
 ### Get Results:
-
-* The system will provide:
-** Disease Predictions based on AI model analysis.
-** Highlighted affected regions in the uploaded medical scans.
-** Suggestions for further medical consultation.
+The system will provide:
+* Disease Predictions based on AI model analysis.
+* Highlighted affected regions in the uploaded medical scans.
+* Suggestions for further medical consultation.
 
 ## Technology Used
 
