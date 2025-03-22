@@ -8,17 +8,12 @@ The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant des
 
 ## Key Features
 
-•	Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
-
-•	Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
-
-•	Real-Time Analysis: Provides quick and accurate diagnostic results based on patient data.
-
-•	Visual Interpretation: Highlights affected areas in medical scans for better understanding.
-
-•	User-Friendly Web Interface: Easy-to-use interface for uploading medical reports and viewing analysis results.
-
-•	Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
+* Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
+* Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
+* Real-Time Analysis: Provides quick and accurate diagnostic results based on patient data.
+* Visual Interpretation: Highlights affected areas in medical scans for better understanding.
+* User-Friendly Web Interface: Easy-to-use interface for uploading medical reports and viewing analysis results.
+* Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
 
 
 ## Installation Guide
