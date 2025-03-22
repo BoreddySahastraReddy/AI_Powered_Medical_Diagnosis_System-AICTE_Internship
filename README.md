@@ -37,32 +37,28 @@ streamlit run app.py
 ## How It Works
 
 ### 1.Select Input:
-•	Choose between Upload Medical Image or Enter Patient Data in the application interface.
+* Choose between Upload Medical Image or Enter Patient Data in the application interface.
 
 ### 2.For Image-Based Diagnosis:
-•	Click on Upload Medical Image and select an X-ray, MRI, or CT scan for analysis.
+* Click on Upload Medical Image and select an X-ray, MRI, or CT scan for analysis.
 
 ### 3.For Data-Based Diagnosis:
-•	Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
+* Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
 ## Get Results:
 
 ### The system will provide:
-•	Disease Predictions based on AI model analysis.
-•	Highlighted affected regions in the uploaded medical scans.
-•	Suggestions for further medical consultation.
+* Disease Predictions based on AI model analysis.
+* Highlighted affected regions in the uploaded medical scans.
+* Suggestions for further medical consultation.
 
 ## Technology Used
 
-•	Python: Core programming language for backend logic.
-
-•	Deep Learning (CNNs & LSTMs): AI models for medical image and text-based diagnosis.
-
-•	OpenCV & TensorFlow: Image processing and model deployment.
-
-•	Streamlit: Interactive web interface for seamless user interaction.
-
-•	Pandas & NumPy: Data handling and analysis for patient records.
+* Python: Core programming language for backend logic.
+* Deep Learning (CNNs & LSTMs): AI models for medical image and text-based diagnosis.
+* OpenCV & TensorFlow: Image processing and model deployment.
+* Streamlit: Interactive web interface for seamless user interaction.
+* Pandas & NumPy: Data handling and analysis for patient records.
 
 ## Contact
 
