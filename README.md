@@ -1,10 +1,13 @@
 AI-Powered Medical Diagnosis System
+
 A project developed as part of the AICTE Internship-A Smart Solution for Early Disease Detection
 
 Project Overview
+
 The AI-Powered Medical Diagnosis System is an AI-driven healthcare assistant designed to help in the early detection and prediction of diseases. Using machine learning and medical image analysis, the system evaluates patient data to assist in identifying potential health conditions. This project serves as the foundation for a more advanced AI-based diagnostic tool, with plans to integrate additional features and enhance accuracy.
 
 Key Features
+
 •	Automated Disease Prediction: Uses AI models to analyze medical data and predict potential health risks.
 •	Supports Multiple Data Inputs: Works with medical images (X-rays, MRIs, etc.) and structured health records.
 •	Real-Time Analysis: Provides quick and accurate diagnostic results based on patient data.
@@ -13,6 +16,7 @@ Key Features
 •	Powered by Deep Learning Models: Ensures high accuracy and reliability in medical diagnostics.
 
 Installation Guide
+
 1. Clone the Repository
 Use the following commands to clone the repository and navigate to the project directory:
 
@@ -30,6 +34,7 @@ Launch the web application using the following command:
 streamlit run app.py
 
 How It Works
+
 1.Select Input:
 •	Choose between Upload Medical Image or Enter Patient Data in the application interface.
 
@@ -40,12 +45,14 @@ How It Works
 •	Click on Enter Patient Data and fill in symptoms, age, medical history, etc.
 
 Get Results:
+
 The system will provide:
 •	Disease Predictions based on AI model analysis.
 •	 Highlighted affected regions in the uploaded medical scans.
 •	 Suggestions for further medical consultation.
 
 Technology Used
+
 •	Python: Core programming language for backend logic.
 •	Deep Learning (CNNs & LSTMs): AI models for medical image and text-based diagnosis.
 •	OpenCV & TensorFlow: Image processing and model deployment.
@@ -53,6 +60,7 @@ Technology Used
 •	Pandas & NumPy: Data handling and analysis for patient records.
 
 Contact
+
 For questions or feedback, feel free to reach out via:
 Email:sahastraboreddy@gmail.com
 GitHub:https://github.com/BoreddySahastraReddy
