@@ -52,7 +52,7 @@ The system will provide:
 * Suggestions for further medical consultation.
 
  
- https://github.com/BoreddySahastraReddy/AI_Powered_Medical_Diagnosis_System-AICTE_Internship/blob/6f57411c2035c98b93a28890c5ca0f9e3912efdb/WhatsApp%20Image%202025-09-25%20at%2019.39.07_7177457c.jpg
+ ![image alt](https://github.com/BoreddySahastraReddy/AI_Powered_Medical_Diagnosis_System-AICTE_Internship/blob/6f57411c2035c98b93a28890c5ca0f9e3912efdb/WhatsApp%20Image%202025-09-25%20at%2019.39.07_7177457c.jpg)
 
 ## Technology Used
 
